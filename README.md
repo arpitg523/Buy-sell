@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Buy-sell
-=======
+
 # Market Place MERN Web App README
 
 ## Project Name
@@ -137,4 +137,3 @@ Local host is used currently for the database services.
 Json Web Tokens are used for authentication for accessing some protected routes of the server 
 The tokens are stored in the localStorage on the client side, which expires in 10 hr
 
->>>>>>> 43d96be (backend frontend complete)
